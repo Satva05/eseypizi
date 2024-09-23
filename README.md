@@ -1,3 +1,3 @@
 # eseypizi
-This is my first Git Repositroy 
+This is my first Git Repositroy. 
 Author - Satva sanjay
